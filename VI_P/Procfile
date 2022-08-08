@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath VI_P main.wsgi
+web: gunicorn VI_P.wsgi
