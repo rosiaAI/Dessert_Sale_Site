@@ -1,1 +1,1 @@
-web: VI_P VI_P.wsgi --log-file -
+web: VI_P main.wsgi --log-file -
