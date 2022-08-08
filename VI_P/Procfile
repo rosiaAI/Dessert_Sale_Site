@@ -1,1 +1,1 @@
-web: gunicorn VI_P.wsgi
+web: gunicorn VI_P main.wsgi
