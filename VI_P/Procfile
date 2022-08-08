@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn --pythonpath VI_P VI_P.wsgi --log-file -
+web: gunicorn --pythonpath VI_P main.wsgi --log-file -
