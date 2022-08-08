@@ -1,1 +1,1 @@
-web: VI_P main.wsgi --log-file -
+web: gunicorn VI_P.wsgi --log-file -
