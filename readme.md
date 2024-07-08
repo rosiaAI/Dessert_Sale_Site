@@ -10,12 +10,16 @@ VI_pro this is a joint project with https://github.com/Sthdire . The idea of the
 
 ## Demonstration
 #### Main page
+<img src="https://github.com/rosiaAI/Dessert_Sale_Site/assets/97724072/0b19b48e-0b6c-4792-9a29-a4f3362eadc1" width="100%" alt="Main pag">
 
 #### Products
+<img src="https://github.com/rosiaAI/Dessert_Sale_Site/assets/97724072/1567c195-1d1d-4c32-983c-8a13ab7b7dbd" width="100%" alt="Products">
 
 #### Basket
+<img src="https://github.com/rosiaAI/Dessert_Sale_Site/assets/97724072/707a1ef7-14b2-4d71-8530-8b2c2c0af7b9" width="100%" alt="Basket">
 
 #### Registration
+<img src="https://github.com/rosiaAI/Dessert_Sale_Site/assets/97724072/81faf86f-dbd0-467c-94ef-9c6822cb1f45" width="100%" alt="Registration">
 
 #### Video demonstration
 [<img src="https://img.youtube.com/vi/qDF1Zd1PRlU/maxresdefault.jpg" width="100%">](https://youtu.be/qDF1Zd1PRlU)
