@@ -3,7 +3,19 @@
 ![Language](https://img.shields.io/badge/language-HTML+CSS%20-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Этот проект представляет собой сайт для продажи десертов, написанный на Django. Была проведена болшая работа над визуальной частью, а также реализована система регистрации аккаунтов
+## Table of Contents
 
-VI_pro this is a joint project with https://github.com/Sthdire . The idea of the project is to create a website for the sale of confectionery on Django. The site has a home page, a selling page, an order page and registration.
-Site url - https://salty-bayou-41195.herokuapp.com/
+## Description of features
+VI_pro this is a joint project with https://github.com/Sthdire . The idea of the project is to create a website for the sale sweets on Django. The site has a home page, a selling page, an order page and registration.
+
+## Demonstration
+#### Main page
+
+#### Products
+
+#### Basket
+
+#### Registration
+
+#### Video demonstration
+[<img src="https://img.youtube.com/vi/qDF1Zd1PRlU/maxresdefault.jpg" width="100%">](https://youtu.be/qDF1Zd1PRlU)
