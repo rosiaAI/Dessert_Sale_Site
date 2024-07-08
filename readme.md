@@ -33,4 +33,8 @@ VI_pro this is a joint project with https://github.com/Sthdire . The idea of the
 [<img src="https://img.youtube.com/vi/qDF1Zd1PRlU/maxresdefault.jpg" width="100%">](https://youtu.be/qDF1Zd1PRlU)
 
 ## Installation instruction
-
+```bash
+pip install -r requirements.txt
+cd VI_P
+py manage.py runserver
+```
