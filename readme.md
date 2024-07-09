@@ -34,7 +34,7 @@ The main feature of this project is that I worked with the Django admin panel an
 #### Registration
 <img src="https://github.com/rosiaAI/Dessert_Sale_Site/assets/97724072/81faf86f-dbd0-467c-94ef-9c6822cb1f45" width="100%" alt="Registration">
 
-#### Video demonstration
+#### Video demonstration (click to view)
 [<img src="https://img.youtube.com/vi/qDF1Zd1PRlU/maxresdefault.jpg" width="100%">](https://youtu.be/qDF1Zd1PRlU)
 
 ## Installation instruction
