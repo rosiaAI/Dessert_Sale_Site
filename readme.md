@@ -1,5 +1,6 @@
 ## Dessert_Sale_Site
 ![Language](https://img.shields.io/badge/language-Python%20-blue)
+![Language](https://img.shields.io/badge/language-JavaScript%20-yellow)
 ![Language](https://img.shields.io/badge/language-HTML+CSS%20-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
