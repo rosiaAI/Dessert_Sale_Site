@@ -14,7 +14,8 @@
 - [Installation instruction](#installation-instruction)
 
 ## Description of features
-VI_pro this is a joint project with https://github.com/Sthdire . The idea of the project is to create a website for the sale sweets on Django. The site has a home page, a selling page, an order page and registration.
+VI_pro this is a joint project with https://github.com/Sthdire . The idea of the project is to create a website for the sale sweets on Django+SQL. The site has a home page, a selling page, an order page and registration.
+The main feature of this project is that I worked with the Django admin panel and added logic for user registration and login, and also wrote some things depending on the user’s state. My friend, in turn, worked hard on the design and, as its main feature, added beautiful animation on the main page using animeJS.
 
 ## Demonstration
 #### Main page
