@@ -4,6 +4,8 @@
 ![Language](https://img.shields.io/badge/language-HTML+CSS%20-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+VI_pro this is a joint project with https://github.com/Sthdire . The idea of the project is to create a website for the sale sweets on Django+SQL.
+
 ## Table of Contents
 - [Description of features](#description-of-features)
 - [Demonstration](#demonstration)
@@ -15,7 +17,8 @@
 - [Installation instruction](#installation-instruction)
 
 ## Description of features
-VI_pro this is a joint project with https://github.com/Sthdire . The idea of the project is to create a website for the sale sweets on Django+SQL. The site has a home page, a selling page, an order page and registration.
+The site has a home page, a selling page, an order page and registration.
+
 The main feature of this project is that I worked with the Django admin panel and added logic for user registration and login, and also wrote some things depending on the user’s state. My friend, in turn, worked hard on the design and, as its main feature, added beautiful animation on the main page using animeJS. Please note that the animation is accurate to the pixel)
 
 ## Demonstration
