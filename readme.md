@@ -35,8 +35,23 @@ The main feature of this project is that I worked with the Django admin panel an
 [<img src="https://img.youtube.com/vi/qDF1Zd1PRlU/maxresdefault.jpg" width="100%">](https://youtu.be/qDF1Zd1PRlU)
 
 ## Installation instruction
+1. Copy the project:
+```bash
+git clone https://github.com/rosiaAI/Dessert_Sale_Site
+```
+2. Go to your project folder:
+```bash
+cd Dessert_Sale_Site
+```
+3. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+4. Go to workspace folder:
+```bash
 cd VI_P
+```
+5. Run the project:
+```bash
 py manage.py runserver
 ```
